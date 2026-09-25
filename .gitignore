@@ -1,0 +1,18 @@
+# Data and generated model files
+data/
+
+# Generated results
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
